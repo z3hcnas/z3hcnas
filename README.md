@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @z3hcnas
-- 👀 I’m interested in backend develop
-- 🌱 I’m currently learning boulevard
-- 💞️ I’m looking to collaborate on advanced node projects
+- 👀 I’m interested in deep learning
+- 🌱 I’m currently learning tensorflow and keras
+- 💞️ I’m looking to collaborate on ai projects
 - 📫 How to reach me write me to izan.perezsanchez@gmail.com
 
 <!---
