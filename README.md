@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ai projects
 - 📫 How to reach me write me to izan.perezsanchez@gmail.com
 
+<a href=“https://github.com/more-stuff”>more stuff</a>
+
+
+more-stuff
+
 <!---
 z3hcnas/z3hcnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
