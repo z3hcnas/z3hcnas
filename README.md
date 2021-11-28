@@ -8,8 +8,11 @@
 
 <h2>My code organitzation</h2>
 
-- <a href=“https://github.com/more-stuff”>More stuff</a>
-- <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a>
+- <a href="https://github.com/more-stuff" target="_blank" rel="noreferrer">More stuff</a>
+- <a href="https://github.com/projects-software" target="_blank" rel="noreferrer">Software projects</a>
+- <a href="https://github.com/courses-software" target="_blank" rel="noreferrer">Software courses</a>
+- <a href="https://github.com/deep-learning-stuff" target="_blank" rel="noreferrer">Deep learning stuff</a>
+- <a href="https://github.com/courses-deeplearning" target="_blank" rel="noreferrer">Deep learning courses</a>
 
 <h2>My stats</h2>
 
