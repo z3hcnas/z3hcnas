@@ -9,6 +9,7 @@
 <h2>My code organitzation</h2>
 
 - <a href=“https://github.com/more-stuff”>More stuff</a>
+- <a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a>
 
 <h2>My stats</h2>
 
