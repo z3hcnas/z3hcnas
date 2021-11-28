@@ -1,3 +1,5 @@
+<h2>Who I am ?</h2>
+
 - 👋 Hi, I’m @z3hcnas
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning tensorflow and keras
@@ -8,9 +10,9 @@
 
 - <a href=“https://github.com/more-stuff”>More stuff</a>
 
+<h2>My stats</h2>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=z3hcnas)](https://github.com/z3hcnas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3hcnas&layout=compact)](https://github.com/z3hcnas)
 
 
 <!---
