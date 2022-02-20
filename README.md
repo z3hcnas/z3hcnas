@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @z3hcnas
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning tensorflow and keras
-- 💞️ I’m looking to collaborate on ai projects
+- 🌱 I’m currently learning pytorch
+- 💞️ I’m looking to collaborate on nlp projects
 - 📫 How to reach me write me to izan.perezsanchez@gmail.com
 
 <h2>My code organitzation</h2>
