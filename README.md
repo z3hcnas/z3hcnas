@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @z3hcnas
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on nlp projects
-- 📫 How to reach me write me to izan.perezsanchez@gmail.com
+- 🌱 I’m currently studying a data engeneering degree
+- 💞️ I’m looking to collaborate on data engeneering projects
+- 📫 How to reach me write me to izan.ps.01@gmail.com
 
 <h2>My code organitzation</h2>
 
@@ -13,6 +13,7 @@
 - <a href="https://github.com/courses-software" target="_blank" rel="noreferrer">Software courses</a>
 - <a href="https://github.com/deep-learning-stuff" target="_blank" rel="noreferrer">Deep learning stuff</a>
 - <a href="https://github.com/courses-deeplearning" target="_blank" rel="noreferrer">Deep learning courses</a>
+- <a href="[https://github.com/data-engeeniring-degree" target="_blank" rel="noreferrer">Data engeneering degree</a>
 
 <h2>My stats</h2>
 
