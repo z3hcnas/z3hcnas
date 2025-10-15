@@ -13,7 +13,7 @@
 - <a href="https://github.com/courses-software" target="_blank" rel="noreferrer">Software courses</a>
 - <a href="https://github.com/deep-learning-stuff" target="_blank" rel="noreferrer">Deep learning stuff</a>
 - <a href="https://github.com/courses-deeplearning" target="_blank" rel="noreferrer">Deep learning courses</a>
-- <a href="[https://github.com/data-engeeniring-degree" target="_blank" rel="noreferrer">Data engeneering degree</a>
+- <a href="https://github.com/data-engeeniring-degree" target="_blank" rel="noreferrer">Data engeneering degree</a>
 
 <h2>My stats</h2>
 
